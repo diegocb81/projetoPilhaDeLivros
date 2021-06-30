@@ -1,2 +1,2 @@
 # projetoPilhaDeLivros
-Unit test project
+Stack of books project with JUnit
